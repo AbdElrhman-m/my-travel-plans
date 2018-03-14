@@ -25,6 +25,7 @@ body {
     display: flex;
     flex-flow: wrap;
     justify-content: center;
+    
 }
 
 .destination {
@@ -38,6 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    border-raduis:10px
 }
 .destination:hover h2 {
     transform: rotate(0deg);
